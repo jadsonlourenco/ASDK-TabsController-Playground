@@ -1,5 +1,5 @@
 ## Demo
-<img src="https://cdn.rawgit.com/jadsonlourenco/ASDK-TabsController-Playground/master/media/demo.gif" width="480" height="270" alt="AsyncDisplayKit Navigation Tabs Controller">
+<img src="https://rawgit.com/jadsonlourenco/ASDK-TabsController-Playground/master/media/demo.gif" width="480" height="270" alt="AsyncDisplayKit Navigation Tabs Controller">
 
 ## Run
 1. `pod install`
